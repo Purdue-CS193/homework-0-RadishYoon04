@@ -1,8 +1,8 @@
 # Jaehong's First CS193 Homework
 
-- c
-- a
-- b
+- Cool instructors
+- Nice class temperature
+- Various additional opportunities
 
 ## Welcome to GitHub Pages
 

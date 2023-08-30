@@ -1,8 +1,8 @@
 # Jaehong's First CS193 Homework
 
--c
--a
--b
+- c
+- a
+- b
 
 ## Welcome to GitHub Pages
 

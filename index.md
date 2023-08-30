@@ -2,7 +2,7 @@
 
 - Cool instructors
 - Nice class temperature
-- Various additional opportunities
+- Additional opportunities
 
 ## Welcome to GitHub Pages
 
